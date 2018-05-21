@@ -11,3 +11,7 @@ figcaption {
   line-height: 1.5em;
   text-align: center;
 }
+
+figure {
+  text-align: center;
+}
